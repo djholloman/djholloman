@@ -1,8 +1,5 @@
-## Hi there 👋
+## Salutations! 👋
 
-**djholloman/djholloman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1>Hi, I'm Dan! <br/><a href="https://github.com/djholloman">Data Analyst</a>, <a href="https://www.linkedin.com/in/daedalusfarms/">Business Professional</a>
 
 <h2>👨‍💻 Data Visualization Project:</h2>
