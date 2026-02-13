@@ -5,7 +5,7 @@
 <h2>👨‍💻 Data Visualization Project:</h2>
 
 - <b>FoodHub Data Visualization and Analysis</b>
-  - [Boosting Delivery Revenue with Attractive Discounts](https://github.com/)
+  - [Boosting Delivery Revenue with Attractive Discounts]([https://github.com/](https://github.com/djholloman/FoodHub_EDA))
 
 - <b>Shinkansen Bullet Train Satisfaction Predictor</b>
   - [Sinkansen01](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
