@@ -7,6 +7,8 @@
 - <b>FoodHub Data Visualization and Analysis</b>
   - [Boosting Delivery Revenue with Attractive Discounts](https://github.com/djholloman/FoodHub_EDA)
 
+<h2>Customer Satisfaction Prediction Model:</h2>
+
 - <b>Shinkansen Bullet Train Satisfaction Predictor</b>
   - [Sinkansen01](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
     
