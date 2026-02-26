@@ -2,17 +2,17 @@
 
 <h1>Hi, I'm Dan! <br/><a href="https://github.com/djholloman">Data Analyst</a>, <a href="https://www.linkedin.com/in/daedalusfarms/">Business Professional</a>
 
-<h2>Data Visualization Project:</h2>
+<h2>Data Visualization:</h2>
 
 - <b>FoodHub Data Visualization and Analysis</b>
   - [Boosting Delivery Revenue with Attractive Discounts](https://github.com/djholloman/FoodHub_EDA)
 
-<h2>Customer Satisfaction Prediction Model:</h2>
+<h2>Prediction Model:</h2>
 
-- <b>Shinkansen Bullet Train Satisfaction Predictor</b>
+- <b>Shinkansen Bullet Train Customer Satisfaction Predictor</b>
   - [Sinkansen Satisfaction](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
  
-<h2>Music Recommendation System:</h2>
+<h2>Recommendation System:</h2>
 
 - <b>Spotify Music Prediction Model</b>
   - [Music "Tuned"](https://github.com/djholloman/MusicTuned)
