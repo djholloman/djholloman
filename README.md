@@ -28,6 +28,6 @@
 [linkedin]: https://www.linkedin.com/in/daedalusfarms/
 
 
-<h2>🔭 I’m currently working on a Power BI Certificate, analyzing famous teams and players in FIFA</h2>
-<h2>🌱 I’m currently learning that the data science field is vast</h2>
-<h2>👯 I’m looking to collaborate on OMRI Organic Amendment dataset cleaning</h2>
+- <h2>🔭 I’m currently working on a Power BI Certificate, analyzing famous teams and players in FIFA</h2>
+- <h2>🌱 I’m currently learning that the data science field is vast</h2>
+- <h2>👯 I’m looking to collaborate on OMRI Organic Amendment dataset cleaning</h2>
