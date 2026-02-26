@@ -8,13 +8,13 @@
   - [Boosting Delivery Revenue with Attractive Discounts](https://github.com/djholloman/FoodHub_EDA)
 
 - <b>Prediction Model:</b> Shinkansen Bullet Train Customer Satisfaction Predictor
-  - [Sinkansen Satisfaction](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
+  - [Shinkansen Satisfaction](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
  
 - <b>Recommendation System:</b> Spotify Music Prediction Model
   - [Music "Tuned"](https://github.com/djholloman/MusicTuned)
 
 - <b>Computer Vision:</b> Google Street View Housing Number Digit Identifier
-  - [Identifying Numbers with Computer Vision](https://github.com/djholloman/SVHN)
+  - [Identifying House Numbers with Computer Vision](https://github.com/djholloman/SVHN)
     
 <h2> 🤳 Connect with me:</h2>
 
