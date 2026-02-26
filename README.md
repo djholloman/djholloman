@@ -21,7 +21,7 @@
 [<img align="left" alt="DaedalusFarms | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/daedalusfarms/
-<-- 
+Follow my LinkedIn
 
 <h2>What I've been working on...</h2>
 
