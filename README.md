@@ -25,6 +25,6 @@ Follow my LinkedIn
 
 <h2>What I've been working on...</h2>
 
-- <b>🔭 I’m currently working on a Power BI Certificate, analyzing famous teams and players in FIFA</b>
-- <b>🌱 I’m currently learning that the data science field is vast</b>
-- <b>👯 I’m looking to collaborate on OMRI Organic Amendment dataset cleaning</b>
+- 🔭 I’m currently working on a <b>Power BI Certificate</b>, analyzing famous teams and players in <b>FIFA</b>
+- 🌱 I’m currently learning that the <b>data science</b> field is vast
+- 👯 I’m looking to collaborate on <b>OMRI Organic Amendment dataset</b> cleaning
