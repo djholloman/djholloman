@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Dan! <br/> I am a <a href="https://www.linkedin.com/in/daedalusfarms/">Data Analyst and Business Professional</a>
 
-<h2>My Projects:</h2>
+<h2>My Repos:</h2>
 
 - <b>Data Visualization:</b> FoodHub Data Visualization and Analysis
   - [Boosting Delivery Revenue with Attractive Discounts](https://github.com/djholloman/FoodHub_EDA)
