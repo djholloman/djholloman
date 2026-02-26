@@ -1,6 +1,6 @@
-## Salutations! 👋
+## Welcome to my Github! 👋
 
-<h1>Hi, I'm Dan! <br/><a href="https://github.com/djholloman">Data Analyst</a>, <a href="https://www.linkedin.com/in/daedalusfarms/">Business Professional</a>
+<h1>Hi, I'm Dan! <br/><a href="https://www.linkedin.com/in/daedalusfarms/">Data Analyst</a>, <a href="https://www.linkedin.com/in/daedalusfarms/">Business Professional</a>
 
 <h2>Data Visualization:</h2>
 
