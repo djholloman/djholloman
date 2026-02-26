@@ -16,6 +16,11 @@
 
 - <b>Spotify Music Prediction Model</b>
   - [Music "Tuned"](https://github.com/djholloman/MusicTuned)
+
+ <h2>Computer Vision:</h2>
+
+- <b>Google Street View Housing Number Digit Identifier</b>
+  - [Identifying Numbers with Computer Vision](https://github.com/djholloman/SVHN)
     
 <h2> 🤳 Connect with me:</h2>
 
