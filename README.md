@@ -27,10 +27,6 @@
 
 [linkedin]: https://www.linkedin.com/in/daedalusfarms/
 
-<!--
-**djholloman/djholloman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <h2>🔭 I’m currently working on a Power BI Certificate, analyzing famous teams and players in FIFA</h2>
 <h2>🌱 I’m currently learning that the data science field is vast</h2>
