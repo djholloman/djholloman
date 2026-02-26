@@ -11,6 +11,11 @@
 
 - <b>Shinkansen Bullet Train Satisfaction Predictor</b>
   - [Sinkansen01](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
+ 
+<h2>Music Recommendation System:</h2>
+
+- <b>Spotify Music Prediction Model</b>
+  - [Music "Tuned"](https://github.com/)
     
 <h2> 🤳 Connect with me:</h2>
 
