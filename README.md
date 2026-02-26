@@ -1,4 +1,4 @@
-## Welcome to my Github! 👋
+## Welcome to my Github profile! 👋
 
 <h1>Hi, I'm Dan! <br/> I am a <a href="https://www.linkedin.com/in/daedalusfarms/">Data Analyst and Business Professional</a>
 <h2>Data Visualization:</h2>
