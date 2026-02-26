@@ -9,6 +9,11 @@
 - <b>Data Visualization:</b> FoodHub Data Visualization and Analysis
   - [Boosting Delivery Revenue with Attractive Discounts](https://github.com/djholloman/FoodHub_EDA)
 
+<object data="MIT-PE-AAIDSP-GL_Business_Report_Project_FoodHub_DanielHolloman_4Dec2025_10_FinalDraft.pdf" type="application/pdf" width="100%" height="500px">
+    <!-- Fallback text/link for browsers that don't support embedded PDFs -->
+    <p>Your browser does not support PDF previews. You can <a href="path/to/your/document.pdf">download the PDF</a> to view it.</p>
+</object>
+
 - <b>Prediction Model:</b> Shinkansen Bullet Train Customer Satisfaction Predictor
   - [Shinkansen Satisfaction](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
  
