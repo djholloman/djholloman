@@ -23,8 +23,10 @@
     
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DaedalusFarms | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin], [linkedin]: https://www.linkedin.com/in/daedalusfarms/
+[<img align="left" alt="DaedalusFarms | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/daedalusfarms/
+<--Follow me on LinkedIn
 
 - <b>🔭 I’m currently working on a Power BI Certificate, analyzing famous teams and players in FIFA</b>
 - <b>🌱 I’m currently learning that the data science field is vast</b>
