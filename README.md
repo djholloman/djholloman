@@ -10,7 +10,7 @@
 <h2>Customer Satisfaction Prediction Model:</h2>
 
 - <b>Shinkansen Bullet Train Satisfaction Predictor</b>
-  - [Sinkansen01](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
+  - [Sinkansen Satisfaction](https://github.com/djholloman/Shinkansen_Bullet_Train_Satisfaction_Predictor)
  
 <h2>Music Recommendation System:</h2>
 
