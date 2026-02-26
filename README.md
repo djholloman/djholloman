@@ -33,4 +33,5 @@ Follow my LinkedIn<br>
 
 <h2>My Certifications:</h2>
 
-<img src="Certificates_DJH/MIT_Applied_AI_DSP_Cert_Screen_Grab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="350"><img src="Certificates_DJH/MIT_leveraging_AI_cert_screen_grab.jpg" alt="Massachusetts Institute of Technology Certificate 2" width="350"><img src="Certificates_DJH/GenerativeAI_Cert_ScreenGrab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="350">
+<img src="Certificates_DJH/MIT_Applied_AI_DSP_Cert_Screen_Grab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="400"><img src="Certificates_DJH/MIT_leveraging_AI_cert_screen_grab.jpg" alt="Massachusetts Institute of Technology Certificate 2" width="400">
+<img src="Certificates_DJH/GenerativeAI_Cert_ScreenGrab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="400">
