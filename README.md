@@ -15,7 +15,7 @@
 <h2>Music Recommendation System:</h2>
 
 - <b>Spotify Music Prediction Model</b>
-  - [Music "Tuned"](https://github.com/)
+  - [Music "Tuned"](https://github.com/djholloman/MusicTuned)
     
 <h2> 🤳 Connect with me:</h2>
 
