@@ -17,7 +17,7 @@
 - <b>Recommendation System:</b> Spotify Music Prediction Model
   - [Music "Tuned"](https://github.com/djholloman/MusicTuned)
 
-- <b>Computer Vision:</b> Google Street View Housing Number Digit Identifier
+- <b>Computer Vision:</b> Google Street View Housing Number (SVHN) Digit Identifier
   - [Identifying House Numbers with Computer Vision](https://github.com/djholloman/SVHN)
     
 <h2>What I've been working on...</h2>
