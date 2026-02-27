@@ -28,7 +28,7 @@
 
 <img src="Certificates_DJH/MIT_Applied_AI_DSP_Cert_Screen_Grab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="400"><img src="Certificates_DJH/MIT_leveraging_AI_cert_screen_grab.jpg" alt="Massachusetts Institute of Technology Certificate 2" width="400"><img src="Certificates_DJH/GenerativeAI_Cert_ScreenGrab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="400">
 
-<h2>More about me:</h2>
+<h2>Resume:</h2>
 
   - [Dan's Resume](https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf)
 
@@ -37,4 +37,4 @@
 [<img align="left" alt="DaedalusFarms | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/daedalusfarms/
-Follow my LinkedIn<br>
+[Follow my LinkedIn](https://www.linkedin.com/in/daedalusfarms/)
