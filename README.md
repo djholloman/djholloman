@@ -1,8 +1,10 @@
 ## Welcome to my Github portfolio! 👋
 
 <h1>Hi, I'm Dan! <br/> I am a <a href="https://www.linkedin.com/in/daedalusfarms/">Data Analyst and Business Professional</a></h1>
-  - Master of Science in Entrepreneurship<br>
-  - Bachelor of Science in Business Administration, minors in Marketing and Finance
+<ul>  
+  <li><b>Master of Science</b> in Entrepreneurship</li>
+  <li><b>Bachelor of Science</b> in Business Administration, minors in Marketing and Finance</li>
+</ul>
   
 <h2>Dan's <a href="https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf">Resume</a></h2>
 
