@@ -4,6 +4,8 @@
   - Master of Science in Entrepreneurship<br>
   - Bachelor of Science in Business Administration, minors in Marketing and Finance
   
+<h2>Dan's <a href="https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf">Resume</a></h2>
+
 <h2>My Repos:</h2>
 
 - <b>Data Visualization:</b> FoodHub Data Visualization and Analysis
@@ -27,10 +29,6 @@
 <h2>My Certifications:</h2>
 
 <img src="Certificates_DJH/MIT_Applied_AI_DSP_Cert_Screen_Grab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="400"><img src="Certificates_DJH/MIT_leveraging_AI_cert_screen_grab.jpg" alt="Massachusetts Institute of Technology Certificate 2" width="400"><img src="Certificates_DJH/GenerativeAI_Cert_ScreenGrab.jpg" alt="Massachusetts Institute of Technology Certificate 1" width="400">
-
-<h2>Resume:</h2>
-
-  - [Dan's Resume](https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
