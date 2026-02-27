@@ -1,8 +1,8 @@
 ## Welcome to my Github portfolio! 👋
 
 <h1>Hi, I'm Dan! <br/> I am a <a href="https://www.linkedin.com/in/daedalusfarms/">Data Analyst and Business Professional</a></h1>
-- Master of Science in Entrepreneurships<br>
-- Bachelor of Science in Business Administration, minors in Marketing and Finance
+  - Master of Science in Entrepreneurship<br>
+  - Bachelor of Science in Business Administration, minors in Marketing and Finance
   
 <h2>My Repos:</h2>
 
