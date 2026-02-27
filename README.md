@@ -1,6 +1,6 @@
 ## Welcome to my Github portfolio! 👋
 
-<h1>Hi, I'm Dan! <br/> I am a <a href="https://www.linkedin.com/in/daedalusfarms/">Manager, Researcher, Data Analyst, and Entrepreneur</a></h1>
+<h1>Hi, I'm Daniel! <br/> I am a <a href="https://www.linkedin.com/in/daedalusfarms/">Manager, Researcher, Data Analyst, and Entrepreneur</a></h1>
 <ul>  
   <li><b>Master of Science</b> in Entrepreneurship</li>
   <li><b>Bachelor of Science</b> in Business Administration, minors in Marketing and Finance</li>
