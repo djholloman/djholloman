@@ -1,12 +1,12 @@
 ## Welcome to my Github portfolio! 👋
 
-<h1>Hi, I'm Daniel! <br/> I am a <a href="https://www.linkedin.com/in/daedalusfarms/">Manager, Researcher, Data Analyst, and Entrepreneur</a></h1>
+<h1>Hi, I'm Daniel! </h1>
 <ul>  
   <li><b>Master of Science</b> in Entrepreneurship</li>
   <li><b>Bachelor of Science</b> in Business Administration, minors in Marketing and Finance</li>
 </ul>
   
-<h2>Dan's <a href="https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf">Resume</a></h2>
+<h2>Daniel's <a href="https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf">Resume</a></h2>
 
 <h2>My Repos:</h2>
 
