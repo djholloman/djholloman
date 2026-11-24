@@ -8,7 +8,7 @@
   
 <h2>Daniel's <a href="https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf">Resume</a></h2>
 
-<h2>My Repos:</h2>
+<h2>Featured Repos:</h2>
 
 - <b>Data Visualization:</b> FoodHub Data Visualization and Analysis
   - [Boosting Delivery Revenue with Attractive Discounts](https://github.com/djholloman/FoodHub_EDA)
