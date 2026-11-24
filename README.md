@@ -3,7 +3,7 @@
 <h1>Hi, I'm Daniel! </h1>
 <ul>  
   <li><b>Master of Science</b> in Entrepreneurship</li>
-  <li><b>Bachelor of Science</b> in Business Administration, minors in Marketing and Finance</li>
+  <li><b>Bachelor of Science</b> in Business Administration; dual minors in Marketing and Finance</li>
 </ul>
   
 <h2>Daniel's <a href="https://github.com/djholloman/djholloman/blob/main/resume_djholloman.pdf">Resume</a></h2>
